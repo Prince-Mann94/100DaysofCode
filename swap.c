@@ -1,5 +1,7 @@
+//Q6: Write a program to swap two numbers using a third variable.
+
 #include<stdio.h>
-int main(){
+    int main(){
     int a,b,c;
     printf("Enter first no. :");
     scanf("%d",&a);
@@ -15,3 +17,4 @@ int main(){
 
     return 0;
 }
+
