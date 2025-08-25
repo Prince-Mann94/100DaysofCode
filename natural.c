@@ -8,4 +8,7 @@ int main(){
 
     printf("Sum of first n natural no.s :%d",(n*(n+1)/2));
 
+    return 0;
+
 }
+
