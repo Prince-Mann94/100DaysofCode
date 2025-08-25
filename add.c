@@ -12,4 +12,7 @@ int main(){
     c = a+b;
     printf("Sum of a and b :%d",c);
 
+    return 0;
+
 }
+
