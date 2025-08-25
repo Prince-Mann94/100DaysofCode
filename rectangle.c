@@ -8,5 +8,8 @@ int main(){
 
     printf("Area of rectangle :%d\n",length * breadth);
     printf("Perimeter of rectangle :%d\n",2*(length + breadth));
+
+    return 0;
 }
+
 
