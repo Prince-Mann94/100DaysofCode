@@ -19,6 +19,7 @@ int main(){
     printf("Product :%d\n", Product);
     printf("Quotient :%d\n", Quotient);
 
-
+    return 0;
 
 }
+
