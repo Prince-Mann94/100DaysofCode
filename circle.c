@@ -2,9 +2,10 @@
 
 #include<stdio.h>
 int main(){
-    int radius = 5;
+    float radius = 5;
     printf("Area of Circle :%.2f\n",3.14*(radius*radius));
      printf("Circumference of Circle :%.2f\n",2*3.14*radius);
      return 0;
 
 }
+
