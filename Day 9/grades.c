@@ -8,16 +8,15 @@ int main(){
 
     if(marks>=90 && marks<=100){
         printf("Grade A");
-    }else if(marks>=80 && marks<=90){
+    }else if(marks>=80 && marks<=89){
         printf("Grade B");
-    }else if(marks>=70 && marks<=80){
+    }else if(marks>=70 && marks<=79){
         printf("Grade C");
-    }else if(marks>=60 && marks<=70){
+    }else if(marks>=60 && marks<=69){
         printf("Grade D");
-    }else if(marks>=70 && marks<=60){
-        printf("Grade E");
     }else{
-        printf("Better luck next time");
+        printf("Grade F");
     }
     return 0;
+
 }
